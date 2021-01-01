@@ -1,4 +1,4 @@
-package com.shiyilib.factory;
+package com.shiyilib.factory.simplefactory;
 
 import java.util.Objects;
 
